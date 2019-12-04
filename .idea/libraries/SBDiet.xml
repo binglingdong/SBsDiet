@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBDiet">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/SBDiet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
